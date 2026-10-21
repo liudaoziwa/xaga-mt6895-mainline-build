@@ -9,11 +9,11 @@
   },
   "kernel": {
     "branch": "7.2-mt6895-xiaomi-xaga",
-    "date": "2026-10-07T08:21:15Z",
+    "date": "2026-10-21T15:10:30Z",
     "repo": "MT6895-Mainline/linux",
-    "sha": "25418005f50b108969d2f65f671fd71c021ee8ad",
-    "subject": "media: mediatek: vcodec: decode straight into the client's CAPTURE buffer",
-    "url": "https://github.com/MT6895-Mainline/linux/commit/25418005f50b108969d2f65f671fd71c021ee8ad"
+    "sha": "30a3f3eb7e47deca58ff7b3c225c639c3c935e9b",
+    "subject": "arm64: configs: xaga: Enable USB configfs",
+    "url": "https://github.com/MT6895-Mainline/linux/commit/30a3f3eb7e47deca58ff7b3c225c639c3c935e9b"
   },
-  "updated_at": "2026-10-07 18:03:21 UTC"
+  "updated_at": "2026-10-21 16:48:18 UTC"
 }
