@@ -13,3 +13,4 @@ bot.py 每次检测到上游新 commit 时追加。
 - 2026-10-06 17:31 MT6895-Mainline/linux@7.2-mt6895-xiaomi-xaga -> 3ab4554daaed (2026-10-06T14:27:20Z) media: mediatek: vcodec: default the VDEC OPP from a resolution op-rate table
 - 2026-10-07 18:03 MT6895-Mainline/linux@7.2-mt6895-xiaomi-xaga -> 25418005f50b (2026-10-07T08:21:15Z) media: mediatek: vcodec: decode straight into the client's CAPTURE buffer
 - 2026-10-21 16:48 MT6895-Mainline/linux@7.2-mt6895-xiaomi-xaga -> 30a3f3eb7e47 (2026-10-21T15:10:30Z) arm64: configs: xaga: Enable USB configfs
+- 2026-10-24 15:33 MT6895-Mainline/initramfs@xaga-mt6895 -> f5b37984f854 (2026-10-24T08:20:53Z) init: Do not mount tmp as noexec
