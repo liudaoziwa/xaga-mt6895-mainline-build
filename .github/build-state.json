@@ -9,11 +9,11 @@
   },
   "kernel": {
     "branch": "7.2-mt6895-xiaomi-xaga",
-    "date": "2026-10-21T15:10:30Z",
+    "date": "2026-10-28T07:57:29Z",
     "repo": "MT6895-Mainline/linux",
-    "sha": "30a3f3eb7e47deca58ff7b3c225c639c3c935e9b",
-    "subject": "arm64: configs: xaga: Enable USB configfs",
-    "url": "https://github.com/MT6895-Mainline/linux/commit/30a3f3eb7e47deca58ff7b3c225c639c3c935e9b"
+    "sha": "8214056b8df0adec354e0f6dcbd2912c20d960bc",
+    "subject": "leds: flash: add Kinetic KTD2687 flashlight for xaga",
+    "url": "https://github.com/MT6895-Mainline/linux/commit/8214056b8df0adec354e0f6dcbd2912c20d960bc"
   },
-  "updated_at": "2026-10-24 15:33:42 UTC"
+  "updated_at": "2026-10-28 18:00:43 UTC"
 }
