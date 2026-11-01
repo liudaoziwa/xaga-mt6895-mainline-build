@@ -9,11 +9,11 @@
   },
   "kernel": {
     "branch": "7.2-mt6895-xiaomi-xaga",
-    "date": "2026-10-28T07:57:29Z",
+    "date": "2026-11-01T06:16:18Z",
     "repo": "MT6895-Mainline/linux",
-    "sha": "8214056b8df0adec354e0f6dcbd2912c20d960bc",
-    "subject": "leds: flash: add Kinetic KTD2687 flashlight for xaga",
-    "url": "https://github.com/MT6895-Mainline/linux/commit/8214056b8df0adec354e0f6dcbd2912c20d960bc"
+    "sha": "1c72049f9a920cea732fb95aae33675ad88eb95c",
+    "subject": "drm/mediatek: vote the real scan-out bandwidth for the display's HRT path",
+    "url": "https://github.com/MT6895-Mainline/linux/commit/1c72049f9a920cea732fb95aae33675ad88eb95c"
   },
-  "updated_at": "2026-10-28 18:00:43 UTC"
+  "updated_at": "2026-11-01 17:43:57 UTC"
 }
