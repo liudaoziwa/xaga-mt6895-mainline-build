@@ -17,3 +17,4 @@ bot.py 每次检测到上游新 commit 时追加。
 - 2026-10-28 18:00 MT6895-Mainline/linux@7.2-mt6895-xiaomi-xaga -> 8214056b8df0 (2026-10-28T07:57:29Z) leds: flash: add Kinetic KTD2687 flashlight for xaga
 - 2026-11-01 17:43 MT6895-Mainline/linux@7.2-mt6895-xiaomi-xaga -> 1c72049f9a92 (2026-11-01T06:16:18Z) drm/mediatek: vote the real scan-out bandwidth for the display's HRT path
 - 2026-11-02 21:29 MT6895-Mainline/linux@7.2-mt6895-xiaomi-xaga -> f1c0c8245d16 (2026-11-02T10:12:39Z) media: mediatek: vcodec: make the VCP decoder usable from a C2 client
+- 2026-11-07 17:34 MT6895-Mainline/linux@7.2-mt6895-xiaomi-xaga -> 78853ccc42d5 (2026-11-07T06:14:47Z) input/aw8697: let the auto-brake finish before the vibrator stops

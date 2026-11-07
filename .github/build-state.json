@@ -9,11 +9,11 @@
   },
   "kernel": {
     "branch": "7.2-mt6895-xiaomi-xaga",
-    "date": "2026-11-02T10:12:39Z",
+    "date": "2026-11-07T06:14:47Z",
     "repo": "MT6895-Mainline/linux",
-    "sha": "f1c0c8245d163fece46699612b8322d11e26348d",
-    "subject": "media: mediatek: vcodec: make the VCP decoder usable from a C2 client",
-    "url": "https://github.com/MT6895-Mainline/linux/commit/f1c0c8245d163fece46699612b8322d11e26348d"
+    "sha": "78853ccc42d5827062e94200251df5efe79c047c",
+    "subject": "input/aw8697: let the auto-brake finish before the vibrator stops",
+    "url": "https://github.com/MT6895-Mainline/linux/commit/78853ccc42d5827062e94200251df5efe79c047c"
   },
-  "updated_at": "2026-11-02 21:29:39 UTC"
+  "updated_at": "2026-11-07 17:34:04 UTC"
 }
