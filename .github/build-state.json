@@ -9,11 +9,11 @@
   },
   "kernel": {
     "branch": "7.2-mt6895-xiaomi-xaga",
-    "date": "2026-11-07T06:14:47Z",
+    "date": "2026-11-11T14:23:32Z",
     "repo": "MT6895-Mainline/linux",
-    "sha": "78853ccc42d5827062e94200251df5efe79c047c",
-    "subject": "input/aw8697: let the auto-brake finish before the vibrator stops",
-    "url": "https://github.com/MT6895-Mainline/linux/commit/78853ccc42d5827062e94200251df5efe79c047c"
+    "sha": "25fd36e67958d96086b8542340477948ab40c2a2",
+    "subject": "arm64: dts: mediatek: xaga: add i2c3 and the NXP SN110T NFC controller",
+    "url": "https://github.com/MT6895-Mainline/linux/commit/25fd36e67958d96086b8542340477948ab40c2a2"
   },
-  "updated_at": "2026-11-07 17:34:04 UTC"
+  "updated_at": "2026-11-11 19:21:27 UTC"
 }
